@@ -1,0 +1,61 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+h1 {
+  color: rgb(212, 10, 10);
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: xx-large;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+}
+body{
+  background-image: url('https://images.squarespace-cdn.com/content/v1/53397a25e4b012d5a0b5039f/1459539439600-K9D6GWP0UVB0I5UMJ09C/wings.jpg?format=2500w');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  color: #160668;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0 0 24px;
+  text-align: justify;
+  font-weight: 800;
+}
+
+textarea {
+  margin: 20px;
+  width: 300px;
+  height: 150px;
+}
+
+ul, ol {
+  color: yellow;
+  margin: 20px;
+  padding: 0;
+}
+
+li {
+  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+form {
+  height:110px;
+  width:190px;
+  margin:auto;
+  padding:10px;
+}
+  
+input, textarea {
+  padding:5px;
+  margin:5px
+}
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
