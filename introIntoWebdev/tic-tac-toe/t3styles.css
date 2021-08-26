@@ -1,0 +1,47 @@
+#top-left-col{
+  border-right: solid black;
+  border-bottom: solid black;
+}
+
+#top-middle-col{
+  border-bottom: solid black;
+}
+
+#top-right-col{
+  border-left: solid black;
+  border-bottom: solid black;
+}
+
+#middle-middle-col{
+  border-left: solid black;
+  border-right: solid black;
+  
+}
+
+#bottom-left-col{
+  border-top: solid black;
+  border-right: solid black;
+}
+
+#bottom-middle-col{
+  border-top: solid black;
+}
+
+#bottom-right-col{
+  border-top: solid black;
+  border-left: solid black;
+}
+
+body{
+  background-color: lightgray;
+}
+
+button{
+  margin-top: 10%;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#row1{
+  height: 20%;
+}

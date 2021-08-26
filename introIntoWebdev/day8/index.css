@@ -1,0 +1,38 @@
+*{
+  font-family: 'Nunito', sans-serif;
+}
+
+body{
+  background-color: #f77f00;
+}
+
+#landing-pic {
+  width: 100%;
+}
+
+#landing-header {
+  font-size: 115%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container-fluid {
+  text-align: center;
+  margin: 2%;
+}
+
+img.individual-icon {
+  width: 6%;
+}
+
+.icons {
+  text-align: center;
+}
+
+.footer {
+  background-color: #d62828;
+  padding: 2%;
+}

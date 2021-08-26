@@ -1,0 +1,19 @@
+.container-fluid.align-center {
+  margin: 20% auto;
+}
+
+a.btn {
+  background-color: rgb(60,80,105);
+}
+
+#charmander-body{
+  background-color: rgb(223, 113, 34);
+}
+
+#squirtle-body{
+  background-color: rgb(153, 196, 219);
+}
+
+#bulbasaur-body{
+  background-color: rgb(150, 193, 160);
+}

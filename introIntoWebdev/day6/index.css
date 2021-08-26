@@ -1,0 +1,44 @@
+div#box1{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: solid black;
+}
+
+div#box2{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  border: solid blue;
+}
+
+div#box3{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  border: solid purple;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+@media (max-width: 400px){
+  
+}

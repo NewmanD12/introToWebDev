@@ -1,0 +1,22 @@
+li {
+  margin: 20px;
+}
+
+
+.navigation {
+  display: flex;
+  justify-content: center;
+} 
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li:last-child {
+  float: right;
+}

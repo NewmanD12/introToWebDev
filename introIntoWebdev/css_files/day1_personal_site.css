@@ -1,0 +1,18 @@
+*{
+  width: 100%;
+  box-sizing: border-box;
+}
+
+img {
+  width: 9%;
+}
+
+li.employer {
+  font-size: 260%;
+}
+
+ul {
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+}

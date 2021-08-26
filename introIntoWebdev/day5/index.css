@@ -1,0 +1,142 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.chicken-wings-pic{
+  width: 300px;
+  border-radius: 15px;
+}
+
+body{
+  background-color: #EE964B;
+}
+
+img.chicken-drum-img {
+  border-radius: 50%;
+  width: 13%;
+}
+
+img.chicken-wing-flat-img {
+  border-radius: 50%;
+  width: 13%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+img {
+  width: 6%;
+  margin-right: 10px;
+}
+
+img#boneless-wing-pic {
+  width: 13%;
+  border-radius: 50%;
+}
+
+.landing-image {
+  justify-content: center;
+  display: flex;
+}
+
+.landing-header {
+  display: flex;
+  justify-content: center;
+}
+
+.different-wing-headers {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.main-section {
+  background-color: #7aa3e3;
+  padding: 3%;
+}
+
+div#boneless-pic {
+  display: flex;
+  justify-content: center;
+}
+
+.register {
+  text-align: center;
+}
+
+button {
+  padding: 0.5%;
+  border-radius: 11px;
+  background-color: #BF2237;
+}
+
+input {
+  padding: .5%;
+  color: lightgray;
+  margin: 5px;
+}
+
+.contact-me-section {
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: #0D3B66;
+  padding: 2%;
+}
+
+.landing-facts {
+  background-color: #FAF0CA;
+  padding: 10px;
+}
+
+input#email {
+  width: 12%;
+}
+
+p.copyright {
+  color: mintcream;
+}
+
+@media (max-width: 400px){
+
+  .chicken-wings-pic{
+    width: 50%;
+    border-radius: 15px;
+  }
+
+  h1 {
+    font-size: 120%;
+  }
+
+  .landing-facts {
+    background-color: #FAF0CA;
+    padding: 10px;
+    font-size: 74%;
+  } 
+  input#email {
+    width: 38%;
+    margin-left: 12%;
+  }
+
+  input#lname {
+    margin-left: 3%;
+  }
+
+  input#fname {
+    margin-left: 2%;
+}
+}
